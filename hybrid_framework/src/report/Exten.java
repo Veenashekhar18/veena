@@ -23,5 +23,6 @@ public void test1()
 	rep.endTest(test);
 	//step5
 	rep.flush();
+	//step
 }
 }
